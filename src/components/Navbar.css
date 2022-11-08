@@ -13,6 +13,7 @@
 }
 
 header{
+    padding: 14px 2%;
     position: fixed;
     width: 100%;
     top: 0;
@@ -91,7 +92,7 @@ header{
     display: none;
 }
 
-@media (max-width: 1280px){
+@media (max-width: 390px){
     header{
         padding: 14px 2%;
         transition: .2s;
